@@ -1,6 +1,6 @@
 Package: net.p0358.myanimelistnsfw
 Name: MyAnimeListNSFW
-Version: 0.0.1
+Version: 0.0.2
 Architecture: iphoneos-arm
 Description: Unhide NSFW (18+) content in MyAnimeList app
 Maintainer: p0358
